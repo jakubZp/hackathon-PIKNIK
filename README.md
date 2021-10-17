@@ -1,1 +1,3 @@
 # hackathon-PIKNIK
+
+Jakub Piwko
